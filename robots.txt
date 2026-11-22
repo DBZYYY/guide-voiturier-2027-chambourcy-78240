@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chambourcy-78240.maisonvalet.fr/sitemap.xml
